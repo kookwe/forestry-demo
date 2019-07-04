@@ -7,8 +7,6 @@ sections:
 - type: document
   path: 主页
   label: 文章
-  match: "**/*"
-  read_only: false
 - type: heading
   label: Content
 - type: jekyll-posts
